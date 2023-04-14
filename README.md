@@ -1,3 +1,3 @@
 # unsupervised_machine_learning
 
-Computing distances_introduction
+computing_distances_introduction
